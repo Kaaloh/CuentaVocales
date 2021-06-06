@@ -1,3 +1,6 @@
+/**
+ * Olvidé mencionar un punto del ejercicio, lo de los integrantes del grupo(solo soy Carlos Guijarro)
+ */
 import java.util.*;
 public class Main {
 
